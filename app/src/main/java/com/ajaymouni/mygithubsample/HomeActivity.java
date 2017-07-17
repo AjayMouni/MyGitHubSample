@@ -26,6 +26,8 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
 
         // new Comment added here........@@@@@@@@@@@@@@@2
 
+        //....................................................
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
